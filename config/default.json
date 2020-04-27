@@ -1,0 +1,7 @@
+{
+    "customer":{
+        "host": "localhost",
+        "user": "jaypee",
+        "password": "123"
+    }
+}
